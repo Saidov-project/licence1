@@ -1,12 +1,22 @@
 {
-  "SIZNING_HWID_RAQAMINGIZ": {
-    "name": "Saidov",
-    "phone": "+998901234567",
-    "modules": {
-      "emaktab": {
-        "status": "active",
-        "expires": "2026-12-31"
-      }
+    "SIZNING_HWID_RAQAMINGIZ": {
+        "name": "Saidov",
+        "phone": "+998901234567",
+        "modules": {
+            "emaktab": {
+                "status": "active",
+                "expires": "2026-12-31"
+            }
+        }
+    },
+    "157E4277A102": {
+        "name": "odilb",
+        "phone": "+998901863133",
+        "modules": {
+            "emaktab": {
+                "status": "active",
+                "expires": "2026-08-13"
+            }
+        }
     }
-  }
 }
