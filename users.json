@@ -8,15 +8,5 @@
                 "expires": "2026-12-31"
             }
         }
-    },
-    "157E4277A102": {
-        "name": "odilbek",
-        "phone": "+998901863133",
-        "modules": {
-            "emaktab": {
-                "status": "active",
-                "expires": "2026-08-13"
-            }
-        }
     }
 }
