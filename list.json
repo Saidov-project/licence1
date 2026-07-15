@@ -2,12 +2,12 @@
   "launcher_version": "1.0",
   "launcher_url": "https://raw.githubusercontent.com/Saidov-project/licence1/refs/heads/main/clavis_new.exe",
   "elonlar": {
-    "oxirgi_xabar": "Yangi e'lonlar shu yerda chiqadi!"
+    "oxirgi_xabar": "Yangi chiqadi!"
   },
   "dasturlar": {
     "emaktab": {
       "nomi": "e-Maktab Avtomatizatsiya",
-      "oxirgi_versiya": "1.0",
+      "oxirgi_versiya": "2.0",
       "fayl_nomi": "emaktab.exe"
     }
   }
