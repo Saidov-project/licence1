@@ -1,3 +1,4 @@
+
 {
   "launcher_version": "1.0",
   "launcher_url": "https://raw.githubusercontent.com/Saidov-project/licence1/refs/heads/main/clavis_new.exe",
@@ -8,7 +9,8 @@
     "emaktab": {
       "nomi": "e-Maktab Avtomatizatsiya",
       "oxirgi_versiya": "1.0",
-      "fayl_nomi": "emaktab.exe"
+      "fayl_nomi": "emaktab.exe",
+      "fayl_url": "https://raw.githubusercontent.com/Saidov-project/licence1/refs/heads/main/emaktab.exe" 
     }
   }
 }
